@@ -1,4 +1,5 @@
 // Leap Year Program in C with Logic, Explanation and Output
+// Output is in the form of png, included with other codes.
 #include <stdio.h>
 int main(void)
 {
