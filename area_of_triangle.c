@@ -1,4 +1,4 @@
-//C Program to Find Area of Triangle Given Base and Height
+// C Program to Find Area of Triangle Given Base and Height
 #include <stdio.h>
 int main(void)
 {
