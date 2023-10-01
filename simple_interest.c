@@ -1,11 +1,11 @@
-//Calculate a Simple Interest
+// Calculate a Simple Interest
 #include <stdio.h>
 int main(void)
 {
-    int p; //principal amount
-    float r; //rate of interest
-    float t; //time
-    float si; //simple interest
+    int p;    // principal amount
+    float r;  // rate of interest
+    float t;  // time
+    float si; // simple interest
 
     printf("Enter the principal amount : ");
     scanf("%d", &p);
@@ -16,7 +16,7 @@ int main(void)
     printf("Enter the time : ");
     scanf("%f", &t);
 
-    si = (p * r * t)/100;
+    si = (p * r * t) / 100;
     printf("The simple interest for the given data is : %f\n", si);
 
     return 0;
